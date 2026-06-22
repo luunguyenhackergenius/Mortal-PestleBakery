@@ -20,10 +20,10 @@ Responsive bakery website designed to showcase artisan baked goods, beverages, a
 ## Screenshots
 
 ### Homepage
-![Homepage](images/homepage.png)
+![Homepage](homepage.png)
 
 ### Menu
-![Menu](images/menu.png)
+![Menu](menu.png)
 
 ### Daily Specials
-![Specials](images/specials.png)
+![Specials](specials.png)
