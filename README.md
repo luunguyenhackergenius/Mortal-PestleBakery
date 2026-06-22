@@ -17,13 +17,14 @@ Responsive bakery website designed to showcase artisan baked goods, beverages, a
 - CSS3
 - JavaScript
 
-## Screenshots
+## Homepage
 
-### Homepage
-![Homepage](homepage.png)
+![Homepage](images/homepage.png)
 
-### Menu
-![Menu](menu.png)
+## Menu
 
-### Daily Specials
-![Specials](specials.png)
+![Menu](images/menu.png)
+
+## Daily Specials
+
+![Daily Specials](images/specials.png)
